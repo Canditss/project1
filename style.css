@@ -276,7 +276,7 @@ section p{
     }
     section p{
         width: 75%;
-        margin-bottom: 3rem;
+        margin-bottom: 2rem;
     }
 
     .btn-section button:nth-child(1),
@@ -284,7 +284,7 @@ section p{
         width: 155px;
         font-size: .7rem;
         margin-right: 0;
-        margin-bottom: 1rem;
+        margin-bottom: 1.5rem;
         border-radius: 12px;
         -webkit-border-radius: 12px;
         -moz-border-radius: 12px;
